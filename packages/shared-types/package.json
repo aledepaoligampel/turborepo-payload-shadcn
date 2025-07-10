@@ -1,0 +1,14 @@
+{
+  "name": "@workspace/shared-types",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./src/payload-types.ts",
+  "types": "./src/payload-types.ts",
+  "peerDependencies": {
+    "payload": "^3.46.0"
+  },
+  "devDependencies": {
+    "payload": "3.46.0",
+    "typescript": "^5.8.3"
+  }
+}
